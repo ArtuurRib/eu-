@@ -167,19 +167,7 @@ CURRENT_OBJECTIVES:
 > NEXT_TARGET: SOFTWARE_DEVELOPER
 ```
 
----
-
-## `09 // CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ArtuurRib/ArtuurRib/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-
-</div>
-
----
-
-## `10 // CONNECT`
+## `09 // CONNECT`
 
 <div align="center">
 

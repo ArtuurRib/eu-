@@ -131,17 +131,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor e, no futuro, transfor
 
 ---
 
-## `07 // TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ArtuurRib&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
-
-</div>
-
----
-
-## `08 // CURRENT MISSION`
+## `07 // CURRENT MISSION`
 
 ```text
 ╭─────────────────────────────────────────────────────────────╮
@@ -167,7 +157,7 @@ CURRENT_OBJECTIVES:
 > NEXT_TARGET: SOFTWARE_DEVELOPER
 ```
 
-## `09 // CONNECT`
+## `08 // CONNECT`
 
 <div align="center">
 
